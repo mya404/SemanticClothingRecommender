@@ -16,4 +16,4 @@ LLM Re-ranking & Styling Advice
 Final Recommendations
 ```
 🔗 Dataset – real products + metadata (CSV + images) —
-➡️ https://www.kaggle.com/datasets/hiteshsuthar101/myntra-fashion-product-dataset
+⤵️ https://www.kaggle.com/datasets/hiteshsuthar101/myntra-fashion-product-dataset
